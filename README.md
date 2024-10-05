@@ -9,4 +9,4 @@
 
 打开 `NVIDIA Control Panel`，具体操作请看：
 
-<video src="./docs/v.mkv"></video>
+![e](./docs/e.gif)
