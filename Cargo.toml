@@ -1,0 +1,8 @@
+[package]
+name = "iconclear"
+version = "0.1.0"
+edition = "2021"
+authors = ["mus <YiiMus@qq.com>"]
+description = "空图标清除"
+
+[dependencies]
